@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA524EC-1A66-4247-AA7B-0BE13691C7E3}|..\\NonTypeTemplates\\NonTypeTemplates.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\NonTypeTemplates\\NonTypeTemplates.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA9D65D-F076-4FC6-A573-9B658C1536CD}|ConsoleApplication1.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\ConsoleApplication1\\Templates.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EA9D65D-F076-4FC6-A573-9B658C1536CD}|ConsoleApplication1.vcxproj|solutionrelative:Templates.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A71210F-1847-45E9-9B89-A4993BC14E9B}|..\\TemplateSort\\TemplateSort.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\TemplateSort\\TemplateSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDCD52E-25AA-4CE0-9F41-B6D7B0203BAD}|..\\TemplateClassColection\\TemplateClassColection.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\TemplateClassColection\\TemplateClassColection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4C1978-C1E3-445C-A9D2-079113012EA9}|..\\Templates2\\Templates2.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\Templates2\\Templates2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NonTypeTemplates.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\NonTypeTemplates\\NonTypeTemplates.cpp",
+              "RelativeDocumentMoniker": "..\\NonTypeTemplates\\NonTypeTemplates.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\NonTypeTemplates\\NonTypeTemplates.cpp",
+              "RelativeToolTip": "..\\NonTypeTemplates\\NonTypeTemplates.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-21T08:07:22.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TemplateClassColection.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\TemplateClassColection\\TemplateClassColection.cpp",
+              "RelativeDocumentMoniker": "..\\TemplateClassColection\\TemplateClassColection.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\TemplateClassColection\\TemplateClassColection.cpp",
+              "RelativeToolTip": "..\\TemplateClassColection\\TemplateClassColection.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-20T10:54:59.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TemplateSort.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\TemplateSort\\TemplateSort.cpp",
+              "RelativeDocumentMoniker": "..\\TemplateSort\\TemplateSort.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\TemplateSort\\TemplateSort.cpp",
+              "RelativeToolTip": "..\\TemplateSort\\TemplateSort.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-20T09:17:35.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Templates2.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\Templates2\\Templates2.cpp",
+              "RelativeDocumentMoniker": "..\\Templates2\\Templates2.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\Templates2\\Templates2.cpp",
+              "RelativeToolTip": "..\\Templates2\\Templates2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-20T08:20:05.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Templates.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\ConsoleApplication1\\Templates.cpp",
+              "RelativeDocumentMoniker": "Templates.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\ConsoleApplication1\\Templates.cpp",
+              "RelativeToolTip": "Templates.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-20T07:45:11.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

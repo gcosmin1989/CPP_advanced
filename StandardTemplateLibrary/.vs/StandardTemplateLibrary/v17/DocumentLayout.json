@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\StandardTemplateLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57B5A9DE-CEEF-4441-8AB4-41AB752C2812}|..\\ClassTemplateaArray\\ClassTemplateaArray.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\ClassTemplateaArray\\ClassTemplateaArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675C317A-7D89-458A-96B0-86AD630F02F6}|..\\ClassTemplates\\ClassTemplates.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\ClassTemplates\\ClassTemplates.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949B69CB-8E41-466D-95EA-8A88B801F72C}|StandardTemplateLibrary.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\StandardTemplateLibrary\\StandardTemplateLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{949B69CB-8E41-466D-95EA-8A88B801F72C}|StandardTemplateLibrary.vcxproj|solutionrelative:StandardTemplateLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassTemplateaArray.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\ClassTemplateaArray\\ClassTemplateaArray.cpp",
+              "RelativeDocumentMoniker": "..\\ClassTemplateaArray\\ClassTemplateaArray.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\ClassTemplateaArray\\ClassTemplateaArray.cpp",
+              "RelativeToolTip": "..\\ClassTemplateaArray\\ClassTemplateaArray.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-21T13:01:14.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassTemplates.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\ClassTemplates\\ClassTemplates.cpp",
+              "RelativeDocumentMoniker": "..\\ClassTemplates\\ClassTemplates.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\ClassTemplates\\ClassTemplates.cpp",
+              "RelativeToolTip": "..\\ClassTemplates\\ClassTemplates.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-21T12:20:45.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StandardTemplateLibrary.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\StandardTemplateLibrary\\StandardTemplateLibrary.cpp",
+              "RelativeDocumentMoniker": "StandardTemplateLibrary.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\StandardTemplateLibrary\\StandardTemplateLibrary.cpp",
+              "RelativeToolTip": "StandardTemplateLibrary.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-21T10:40:51.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
