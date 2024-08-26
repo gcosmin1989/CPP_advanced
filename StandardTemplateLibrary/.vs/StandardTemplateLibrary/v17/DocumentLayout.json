@@ -3,6 +3,21 @@
   "WorkspaceRootPath": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\StandardTemplateLibrary\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7CC59ED5-2723-4C23-BF83-1B3AB3B42555}|..\\StandardTemplateLibraryIteratos2\\StandardTemplateLibraryIteratos2.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\StandardTemplateLibraryIteratos2\\StandardTemplateLibraryIteratos2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69114731-2C98-4D29-827C-E941198E30ED}|..\\StandardTemplateLibrary2\\StandardTemplateLibrary2.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\StandardTemplateLibrary2\\StandardTemplateLibraryIterators.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B325822-CC1C-48A9-8D3A-29A4765A2899}|..\\StandardTermplateLibraryFunctors\\StandardTermplateLibraryFunctors.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\StandardTermplateLibraryFunctors\\StandardTermplateLibraryFunctors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091B2BA2-615B-4FD6-9FC7-E028C3F232A9}|..\\StandardTemplateLibraryMap\\StandardTemplateLibraryMap.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\StandardTemplateLibraryMap\\StandardTemplateLibraryMap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36256C2E-8F57-4C43-A4CA-1C916540784F}|..\\StandardTemplateLibraryValarray\\StandardTemplateLibraryValarray.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\StandardTemplateLibraryValarray\\StandardTemplateLibraryValarray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{682F3AF8-5AC9-4C41-8C7A-9DF7A136ECA6}|..\\StandartTemplateLibraryAll_Off\\StandartTemplateLibraryAll_Off.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\StandartTemplateLibraryAll_Off\\StandartTemplateLibraryAll_Off.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -41,19 +56,80 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StandartTemplateLibraryAll_Off.cpp",
-              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\StandartTemplateLibraryAll_Off\\StandartTemplateLibraryAll_Off.cpp",
-              "RelativeDocumentMoniker": "..\\StandartTemplateLibraryAll_Off\\StandartTemplateLibraryAll_Off.cpp",
-              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\StandartTemplateLibraryAll_Off\\StandartTemplateLibraryAll_Off.cpp",
-              "RelativeToolTip": "..\\StandartTemplateLibraryAll_Off\\StandartTemplateLibraryAll_Off.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Title": "StandardTemplateLibraryIteratos2.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\StandardTemplateLibraryIteratos2\\StandardTemplateLibraryIteratos2.cpp",
+              "RelativeDocumentMoniker": "..\\StandardTemplateLibraryIteratos2\\StandardTemplateLibraryIteratos2.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\StandardTemplateLibraryIteratos2\\StandardTemplateLibraryIteratos2.cpp",
+              "RelativeToolTip": "..\\StandardTemplateLibraryIteratos2\\StandardTemplateLibraryIteratos2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-22T14:46:29.298Z",
+              "WhenOpened": "2024-08-26T13:23:12.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StandardTemplateLibraryIterators.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\StandardTemplateLibrary2\\StandardTemplateLibraryIterators.cpp",
+              "RelativeDocumentMoniker": "..\\StandardTemplateLibrary2\\StandardTemplateLibraryIterators.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\StandardTemplateLibrary2\\StandardTemplateLibraryIterators.cpp",
+              "RelativeToolTip": "..\\StandardTemplateLibrary2\\StandardTemplateLibraryIterators.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-26T12:58:55.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "StandardTermplateLibraryFunctors.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\StandardTermplateLibraryFunctors\\StandardTermplateLibraryFunctors.cpp",
+              "RelativeDocumentMoniker": "..\\StandardTermplateLibraryFunctors\\StandardTermplateLibraryFunctors.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\StandardTermplateLibraryFunctors\\StandardTermplateLibraryFunctors.cpp",
+              "RelativeToolTip": "..\\StandardTermplateLibraryFunctors\\StandardTermplateLibraryFunctors.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-26T12:14:36.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StandardTemplateLibraryMap.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\StandardTemplateLibraryMap\\StandardTemplateLibraryMap.cpp",
+              "RelativeDocumentMoniker": "..\\StandardTemplateLibraryMap\\StandardTemplateLibraryMap.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\StandardTemplateLibraryMap\\StandardTemplateLibraryMap.cpp",
+              "RelativeToolTip": "..\\StandardTemplateLibraryMap\\StandardTemplateLibraryMap.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-26T09:05:39.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StandardTemplateLibraryValarray.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\StandardTemplateLibraryValarray\\StandardTemplateLibraryValarray.cpp",
+              "RelativeDocumentMoniker": "..\\StandardTemplateLibraryValarray\\StandardTemplateLibraryValarray.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\StandardTemplateLibraryValarray\\StandardTemplateLibraryValarray.cpp",
+              "RelativeToolTip": "..\\StandardTemplateLibraryValarray\\StandardTemplateLibraryValarray.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-26T08:11:44.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StandartTemplateLibraryAll_Off.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\StandartTemplateLibraryAll_Off\\StandartTemplateLibraryAll_Off.cpp",
+              "RelativeDocumentMoniker": "..\\StandartTemplateLibraryAll_Off\\StandartTemplateLibraryAll_Off.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\StandartTemplateLibraryAll_Off\\StandartTemplateLibraryAll_Off.cpp",
+              "RelativeToolTip": "..\\StandartTemplateLibraryAll_Off\\StandartTemplateLibraryAll_Off.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAD0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-22T14:46:29.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "StandardTemplateLibraryBinarySearch.cpp",
               "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\StandardTemplateLibraryBinarySearch\\StandardTemplateLibraryBinarySearch.cpp",
               "RelativeDocumentMoniker": "..\\StandardTemplateLibraryBinarySearch\\StandardTemplateLibraryBinarySearch.cpp",
@@ -61,12 +137,11 @@
               "RelativeToolTip": "..\\StandardTemplateLibraryBinarySearch\\StandardTemplateLibraryBinarySearch.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-22T10:27:05.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T10:27:05.859Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "StandardTempleateLibrarySort.cpp",
               "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\StandardTempleateLibrarySort\\StandardTempleateLibrarySort.cpp",
               "RelativeDocumentMoniker": "..\\StandardTempleateLibrarySort\\StandardTempleateLibrarySort.cpp",
@@ -74,12 +149,11 @@
               "RelativeToolTip": "..\\StandardTempleateLibrarySort\\StandardTempleateLibrarySort.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-22T10:07:14.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T10:07:14.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "StandardTermplateLibraryIterator.cpp",
               "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\StandardTermplateLibraryIterator\\StandardTermplateLibraryIterator.cpp",
               "RelativeDocumentMoniker": "..\\StandardTermplateLibraryIterator\\StandardTermplateLibraryIterator.cpp",
@@ -87,12 +161,11 @@
               "RelativeToolTip": "..\\StandardTermplateLibraryIterator\\StandardTermplateLibraryIterator.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-22T08:07:11.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T08:07:11.063Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "ClassTemplateaArray.cpp",
               "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\ClassTemplateaArray\\ClassTemplateaArray.cpp",
               "RelativeDocumentMoniker": "..\\ClassTemplateaArray\\ClassTemplateaArray.cpp",
@@ -100,12 +173,11 @@
               "RelativeToolTip": "..\\ClassTemplateaArray\\ClassTemplateaArray.cpp",
               "ViewState": "AQIAABgAAAAAAAAAAAAAAAwAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-21T13:01:14.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T13:01:14.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "ClassTemplates.cpp",
               "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\ClassTemplates\\ClassTemplates.cpp",
               "RelativeDocumentMoniker": "..\\ClassTemplates\\ClassTemplates.cpp",
@@ -117,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "StandardTemplateLibrary.cpp",
               "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\StandardTemplateLibrary\\StandardTemplateLibrary.cpp",
               "RelativeDocumentMoniker": "StandardTemplateLibrary.cpp",
@@ -125,8 +197,7 @@
               "RelativeToolTip": "StandardTemplateLibrary.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-21T10:40:51.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T10:40:51.231Z"
             }
           ]
         }
