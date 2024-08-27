@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\Pointers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A52CC-E3E6-4C03-B694-51C7EF1C9330}|..\\FunctionPointersPolimorphism\\FunctionPointersPolimorphism.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\FunctionPointersPolimorphism\\FunctionPointersPolimorphism.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F2AB7E-518D-4195-95C9-1EC79B03450C}|..\\CallbackFunctionPointers\\CallbackFunctionPointers.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\CallbackFunctionPointers\\CallbackFunctionPointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E055638-AF76-4400-9AC7-CF473AD0F06F}|..\\FunctionPointers\\FunctionPointers.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\FunctionPointers\\FunctionPointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FCAFDB-D4B2-409A-B915-D34FB3C7627B}|..\\ArrayNameAsPointers\\ArrayNameAsPointers.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\ArrayNameAsPointers\\ArrayNameAsPointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7F02B8-51E7-4B12-B23B-95649896E59E}|..\\ReferencesAndPointers\\ReferencesAndPointers.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\ReferencesAndPointers\\ReferencesAndPointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB991C0-5B2A-453A-8C48-B028CB7DF5C4}|Pointers.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\Pointers\\Pointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BB991C0-5B2A-453A-8C48-B028CB7DF5C4}|Pointers.vcxproj|solutionrelative:Pointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FunctionPointersPolimorphism.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\FunctionPointersPolimorphism\\FunctionPointersPolimorphism.cpp",
+              "RelativeDocumentMoniker": "..\\FunctionPointersPolimorphism\\FunctionPointersPolimorphism.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\FunctionPointersPolimorphism\\FunctionPointersPolimorphism.cpp",
+              "RelativeToolTip": "..\\FunctionPointersPolimorphism\\FunctionPointersPolimorphism.cpp",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-27T12:56:11.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CallbackFunctionPointers.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\CallbackFunctionPointers\\CallbackFunctionPointers.cpp",
+              "RelativeDocumentMoniker": "..\\CallbackFunctionPointers\\CallbackFunctionPointers.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\CallbackFunctionPointers\\CallbackFunctionPointers.cpp",
+              "RelativeToolTip": "..\\CallbackFunctionPointers\\CallbackFunctionPointers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-27T12:34:07.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FunctionPointers.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\FunctionPointers\\FunctionPointers.cpp",
+              "RelativeDocumentMoniker": "..\\FunctionPointers\\FunctionPointers.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\FunctionPointers\\FunctionPointers.cpp",
+              "RelativeToolTip": "..\\FunctionPointers\\FunctionPointers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-27T12:26:49.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArrayNameAsPointers.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\ArrayNameAsPointers\\ArrayNameAsPointers.cpp",
+              "RelativeDocumentMoniker": "..\\ArrayNameAsPointers\\ArrayNameAsPointers.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\ArrayNameAsPointers\\ArrayNameAsPointers.cpp",
+              "RelativeToolTip": "..\\ArrayNameAsPointers\\ArrayNameAsPointers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-27T11:36:43.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReferencesAndPointers.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\ReferencesAndPointers\\ReferencesAndPointers.cpp",
+              "RelativeDocumentMoniker": "..\\ReferencesAndPointers\\ReferencesAndPointers.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\ReferencesAndPointers\\ReferencesAndPointers.cpp",
+              "RelativeToolTip": "..\\ReferencesAndPointers\\ReferencesAndPointers.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-27T10:18:58.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pointers.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\Pointers\\Pointers.cpp",
+              "RelativeDocumentMoniker": "Pointers.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\Pointers\\Pointers.cpp",
+              "RelativeToolTip": "Pointers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-27T08:52:41.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

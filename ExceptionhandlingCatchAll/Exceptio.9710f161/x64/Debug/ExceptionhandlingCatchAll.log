@@ -1,0 +1,3 @@
+﻿  ExceptionhandlingCatchAll.cpp
+C:\Users\cog\Desktop\CPP_Stuff\C++ Advanced\ExceptionhandlingCatchAll\ExceptionhandlingCatchAll.cpp(6,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ExceptionhandlingCatchAll.vcxproj -> C:\Users\cog\Desktop\CPP_Stuff\C++ Advanced\ExceptionhandlingCatchAll\x64\Debug\ExceptionhandlingCatchAll.exe
