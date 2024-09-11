@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\PointersExercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFCD088-0140-44DE-BD1B-4B49426DFE27}|..\\OOPReview\\OOPReview.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\OOPReview\\OOPReview.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D877C1-BFDF-4AC5-9E25-0C45AAD303BC}|..\\FunctionPointers2\\FunctionPointers2.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\FunctionPointers2\\FunctionPointers2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37594CA1-CDF6-4B6E-A445-8D06A4C77880}|..\\SmartPointers\\SmartPointers.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\SmartPointers\\SmartPointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BD2DA6-9C7C-4035-94EB-31A8D7353B0E}|..\\MultiDimensionalDynamicArray\\MultiDimensionalDynamicArray.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\MultiDimensionalDynamicArray\\MultiDimensionalDynamicArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB938F32-E6E1-42BA-9FBC-41178383A9F8}|..\\DinamicArraysPointers\\DinamicArraysPointers.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\DinamicArraysPointers\\DinamicArraysPointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A7C6582-4A67-4ED7-B225-210D3619F8B9}|..\\MultipleValuesUsingPointers\\MultipleValuesUsingPointers.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\MultipleValuesUsingPointers\\MultipleValuesUsingPointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4E6C17-6823-48B2-80FD-8775C041910F}|..\\ArrayPointers\\ArrayPointers.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\ArrayPointers\\ArrayPointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA108BE-75BD-45F2-899C-48DC34F5F23E}|..\\VoidPointers\\VoidPointers.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\VoidPointers\\VoidPointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCF68D0-F5A1-43DC-9C81-1C2B2CF8D555}|..\\PointersExercises4\\PointersExercises4.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\PointersExercises4\\PointersExercises4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9FD1563-8E10-4D4E-9076-ECBB447F9189}|..\\PointersExercises3\\PointersExercises3.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\PointersExercises3\\PointersExercises3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7519472C-61B9-4692-BC5C-ACFA952001AF}|..\\POintersExercises2\\POintersExercises2.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\POintersExercises2\\POintersExercises2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9624F69-D20C-4031-AA80-9EC4B8CE94A4}|PointersExercises.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\PointersExercises\\PointersExercises.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9624F69-D20C-4031-AA80-9EC4B8CE94A4}|PointersExercises.vcxproj|solutionrelative:PointersExercises.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OOPReview.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\OOPReview\\OOPReview.cpp",
+              "RelativeDocumentMoniker": "..\\OOPReview\\OOPReview.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\OOPReview\\OOPReview.cpp",
+              "RelativeToolTip": "..\\OOPReview\\OOPReview.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-09T12:01:28.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FunctionPointers2.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\FunctionPointers2\\FunctionPointers2.cpp",
+              "RelativeDocumentMoniker": "..\\FunctionPointers2\\FunctionPointers2.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\FunctionPointers2\\FunctionPointers2.cpp",
+              "RelativeToolTip": "..\\FunctionPointers2\\FunctionPointers2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-09T09:16:43.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmartPointers.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\SmartPointers\\SmartPointers.cpp",
+              "RelativeDocumentMoniker": "..\\SmartPointers\\SmartPointers.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\SmartPointers\\SmartPointers.cpp",
+              "RelativeToolTip": "..\\SmartPointers\\SmartPointers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T10:00:03.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MultiDimensionalDynamicArray.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\MultiDimensionalDynamicArray\\MultiDimensionalDynamicArray.cpp",
+              "RelativeDocumentMoniker": "..\\MultiDimensionalDynamicArray\\MultiDimensionalDynamicArray.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\MultiDimensionalDynamicArray\\MultiDimensionalDynamicArray.cpp",
+              "RelativeToolTip": "..\\MultiDimensionalDynamicArray\\MultiDimensionalDynamicArray.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T08:42:50.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DinamicArraysPointers.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\DinamicArraysPointers\\DinamicArraysPointers.cpp",
+              "RelativeDocumentMoniker": "..\\DinamicArraysPointers\\DinamicArraysPointers.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\DinamicArraysPointers\\DinamicArraysPointers.cpp",
+              "RelativeToolTip": "..\\DinamicArraysPointers\\DinamicArraysPointers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T10:54:27.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MultipleValuesUsingPointers.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\MultipleValuesUsingPointers\\MultipleValuesUsingPointers.cpp",
+              "RelativeDocumentMoniker": "..\\MultipleValuesUsingPointers\\MultipleValuesUsingPointers.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\MultipleValuesUsingPointers\\MultipleValuesUsingPointers.cpp",
+              "RelativeToolTip": "..\\MultipleValuesUsingPointers\\MultipleValuesUsingPointers.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T09:40:29.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArrayPointers.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\ArrayPointers\\ArrayPointers.cpp",
+              "RelativeDocumentMoniker": "..\\ArrayPointers\\ArrayPointers.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\ArrayPointers\\ArrayPointers.cpp",
+              "RelativeToolTip": "..\\ArrayPointers\\ArrayPointers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T08:32:07.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VoidPointers.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\VoidPointers\\VoidPointers.cpp",
+              "RelativeDocumentMoniker": "..\\VoidPointers\\VoidPointers.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\VoidPointers\\VoidPointers.cpp",
+              "RelativeToolTip": "..\\VoidPointers\\VoidPointers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T08:16:45.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PointersExercises4.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\PointersExercises4\\PointersExercises4.cpp",
+              "RelativeDocumentMoniker": "..\\PointersExercises4\\PointersExercises4.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\PointersExercises4\\PointersExercises4.cpp",
+              "RelativeToolTip": "..\\PointersExercises4\\PointersExercises4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-04T12:25:07.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PointersExercises3.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\PointersExercises3\\PointersExercises3.cpp",
+              "RelativeDocumentMoniker": "..\\PointersExercises3\\PointersExercises3.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\PointersExercises3\\PointersExercises3.cpp",
+              "RelativeToolTip": "..\\PointersExercises3\\PointersExercises3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-04T10:10:41.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "POintersExercises2.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\POintersExercises2\\POintersExercises2.cpp",
+              "RelativeDocumentMoniker": "..\\POintersExercises2\\POintersExercises2.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\POintersExercises2\\POintersExercises2.cpp",
+              "RelativeToolTip": "..\\POintersExercises2\\POintersExercises2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-04T10:01:26.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PointersExercises.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\PointersExercises\\PointersExercises.cpp",
+              "RelativeDocumentMoniker": "PointersExercises.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\PointersExercises\\PointersExercises.cpp",
+              "RelativeToolTip": "PointersExercises.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-04T09:49:21.788Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

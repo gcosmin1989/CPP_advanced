@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\Pointers\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A93A52CC-E3E6-4C03-B694-51C7EF1C9330}|..\\FunctionPointersPolimorphism\\FunctionPointersPolimorphism.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\FunctionPointersPolimorphism\\FunctionPointersPolimorphism.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1108EC45-A6EA-4CEE-B51C-BCBA700BB771}|..\\RecapPointers\\RecapPointers.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\RecapPointers\\RecapPointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7F2AB7E-518D-4195-95C9-1EC79B03450C}|..\\CallbackFunctionPointers\\CallbackFunctionPointers.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\CallbackFunctionPointers\\CallbackFunctionPointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -12,14 +12,17 @@
       "AbsoluteMoniker": "D:0:0:{3E055638-AF76-4400-9AC7-CF473AD0F06F}|..\\FunctionPointers\\FunctionPointers.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\FunctionPointers\\FunctionPointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5FCAFDB-D4B2-409A-B915-D34FB3C7627B}|..\\ArrayNameAsPointers\\ArrayNameAsPointers.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\ArrayNameAsPointers\\ArrayNameAsPointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3B7F02B8-51E7-4B12-B23B-95649896E59E}|..\\ReferencesAndPointers\\ReferencesAndPointers.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\ReferencesAndPointers\\ReferencesAndPointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7BB991C0-5B2A-453A-8C48-B028CB7DF5C4}|Pointers.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\Pointers\\Pointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7BB991C0-5B2A-453A-8C48-B028CB7DF5C4}|Pointers.vcxproj|solutionrelative:Pointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A52CC-E3E6-4C03-B694-51C7EF1C9330}|..\\FunctionPointersPolimorphism\\FunctionPointersPolimorphism.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\FunctionPointersPolimorphism\\FunctionPointersPolimorphism.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FCAFDB-D4B2-409A-B915-D34FB3C7627B}|..\\ArrayNameAsPointers\\ArrayNameAsPointers.vcxproj|C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\ArrayNameAsPointers\\ArrayNameAsPointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,12 +41,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RecapPointers.cpp",
+              "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\RecapPointers\\RecapPointers.cpp",
+              "RelativeDocumentMoniker": "..\\RecapPointers\\RecapPointers.cpp",
+              "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\RecapPointers\\RecapPointers.cpp",
+              "RelativeToolTip": "..\\RecapPointers\\RecapPointers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-04T08:35:25.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "FunctionPointersPolimorphism.cpp",
               "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\FunctionPointersPolimorphism\\FunctionPointersPolimorphism.cpp",
               "RelativeDocumentMoniker": "..\\FunctionPointersPolimorphism\\FunctionPointersPolimorphism.cpp",
               "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\FunctionPointersPolimorphism\\FunctionPointersPolimorphism.cpp",
               "RelativeToolTip": "..\\FunctionPointersPolimorphism\\FunctionPointersPolimorphism.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwB8AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-27T12:56:11.72Z",
               "EditorCaption": ""
@@ -56,9 +72,10 @@
               "RelativeDocumentMoniker": "..\\CallbackFunctionPointers\\CallbackFunctionPointers.cpp",
               "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\CallbackFunctionPointers\\CallbackFunctionPointers.cpp",
               "RelativeToolTip": "..\\CallbackFunctionPointers\\CallbackFunctionPointers.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-27T12:34:07.823Z"
+              "WhenOpened": "2024-08-27T12:34:07.823Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -68,13 +85,14 @@
               "RelativeDocumentMoniker": "..\\FunctionPointers\\FunctionPointers.cpp",
               "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\FunctionPointers\\FunctionPointers.cpp",
               "RelativeToolTip": "..\\FunctionPointers\\FunctionPointers.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-27T12:26:49.206Z"
+              "WhenOpened": "2024-08-27T12:26:49.206Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ArrayNameAsPointers.cpp",
               "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\ArrayNameAsPointers\\ArrayNameAsPointers.cpp",
               "RelativeDocumentMoniker": "..\\ArrayNameAsPointers\\ArrayNameAsPointers.cpp",
@@ -86,19 +104,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ReferencesAndPointers.cpp",
               "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\ReferencesAndPointers\\ReferencesAndPointers.cpp",
               "RelativeDocumentMoniker": "..\\ReferencesAndPointers\\ReferencesAndPointers.cpp",
               "ToolTip": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\ReferencesAndPointers\\ReferencesAndPointers.cpp",
               "RelativeToolTip": "..\\ReferencesAndPointers\\ReferencesAndPointers.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-27T10:18:58.103Z"
+              "WhenOpened": "2024-08-27T10:18:58.103Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Pointers.cpp",
               "DocumentMoniker": "C:\\Users\\cog\\Desktop\\CPP_Stuff\\C\u002B\u002B Advanced\\Pointers\\Pointers.cpp",
               "RelativeDocumentMoniker": "Pointers.cpp",
@@ -106,7 +125,8 @@
               "RelativeToolTip": "Pointers.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-27T08:52:41.951Z"
+              "WhenOpened": "2024-08-27T08:52:41.951Z",
+              "EditorCaption": ""
             }
           ]
         }
