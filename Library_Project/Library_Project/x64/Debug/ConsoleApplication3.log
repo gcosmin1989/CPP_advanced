@@ -1,0 +1,4 @@
+﻿  LIbrary_Project.cpp
+C:\Users\cog\Desktop\CPP_Stuff\C++ Advanced\Library_Project\LIbrary_Project.cpp(320,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\cog\Desktop\CPP_Stuff\C++ Advanced\Library_Project\LIbrary_Project.cpp(422,1): warning C4715: '`Library::sortBooks'::`2'::<lambda_1>::operator()': not all control paths return a value
+  ConsoleApplication3.vcxproj -> C:\Users\cog\Desktop\CPP_Stuff\C++ Advanced\Library_Project\x64\Debug\Library_Project.exe
